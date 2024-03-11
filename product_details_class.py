@@ -14,7 +14,7 @@ class ProductDetails:
 
     def __str__(self):
         return (f"Price: {self.price} {self.price_unit}\n"
-                f"Discounted Price: {self.discounted_price}\n"
+                f"Discounted Price: {self.discounted_price} {self.price_unit}\n"
                 f"Is Discounted: {self.is_discounted}\n"
                 f"Product Type: {self.product_type}\n"
                 f"Quantity: {self.quantity}\n"
