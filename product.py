@@ -1,5 +1,5 @@
 # product.py
-import product_details
+import product_details_class
 
 class Product:
     def __init__(self, product_name, price, discounted_price, product_type, quantity, color, series, season):

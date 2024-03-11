@@ -11,7 +11,8 @@
     <ProductDetail Name="DiscountedPrice" Value="2,24"/>
     <ProductDetail Name="ProductType" Value="Elbise"/>
     <ProductDetail Name="Quantity" Value="9"/>
-    <ProductDetail Name="Color" Value="Turuncu"/>
+    <ProductDetail Name="Color" Value="turuNCu"/>
+        <ProductDetail Name="Color" Value="bordo"/>
     <ProductDetail Name="Series" Value="1S-1M-2L-1XL"/>
     <ProductDetail Name="Season" Value="2023 Kış"/>
     </ProductDetails>
@@ -73,7 +74,6 @@
     <ProductDetail Name="DiscountedPrice" Value="1,24"/>
     <ProductDetail Name="ProductType" Value="T-shirt"/>
     <ProductDetail Name="Quantity" Value="0"/>
-    <ProductDetail Name="Color" Value="Vizon"/>
     <ProductDetail Name="Series" Value="1M-1L-1XL"/>
     <ProductDetail Name="Season" Value="2023 Yaz"/>
     </ProductDetails>
