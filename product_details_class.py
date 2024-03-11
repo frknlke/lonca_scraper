@@ -1,3 +1,6 @@
+# Author: Furkan Ülke
+# This file is created to define the product details class and its attributes.
+# product_details_class.py
 
 class ProductDetails:
     def __init__(self, price, price_unit, discounted_price, is_discounted, product_type, quantity, colors, series, season, year):

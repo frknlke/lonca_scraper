@@ -1,6 +1,7 @@
+# Author: Furkan Ülke
+# This file is created to define the product class and its attributes.
 # product_class.py
 import product_details_class
-
 
 class Product:
     def __init__(self, product_name, product_id, stock_code, product_details, product_images, fabric, sample_size,
